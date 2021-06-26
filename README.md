@@ -3,7 +3,7 @@
 ![UNIPAR ](https://www.calendariodovestibular.com.br/wp-content/uploads/2013/03/post_unipar.png) 
 2º A.A.R.E - ESTRUTURA DE DADOS
 =============================
-   ## Métodos de Ordenação & Árvores Binárias 
+   ## Métodos de Ordenação  
 
 ### Acadêmico: Henrique Borges da Silva 
 ### R.A: 00195578
